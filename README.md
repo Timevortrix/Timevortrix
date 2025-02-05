@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timevortrix 
 - 👀 I’m interested in Cybersecurity and お寿司 😎🍣
-- 🌱 I’m currently learning Reverse engineering and other areas 👌
+- 🌱 I’m currently learning Cybersecurity Read Team and other areas 👌
 - 💞️ I’m looking to collaborate on pentesting projects one day! 🚀
 - 📫 How to reach me 🤔 https://www.linkedin.com/in/joana-saraiva-9139b8208
 - 😄 Background: Started using Windows 98 at 3 years old, then my next new adventure was Windows XP 💪💯
