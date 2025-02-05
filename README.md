@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Timevortrix 
-- 👀 I’m interested in Cybersecurity and お寿司 😎🍣
+- 👀 I’m interested in learning new things and お寿司 😎🍣
 - 🌱 I’m currently learning Cybersecurity Read Team and other areas 👌
 - 💞️ I’m looking to collaborate on pentesting projects one day! 🚀
 - 📫 How to reach me 🤔 https://www.linkedin.com/in/joana-saraiva-9139b8208
